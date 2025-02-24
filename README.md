@@ -1,11 +1,18 @@
 # ESP32-Installer
+This script will prepare a Linux OS for ESP32 development.
+
 ## Usage
-`$ ./esp32-installer -h`
+```
+$ git clone https://github.com/ardawan/ESP32-Installer.git
+$ cd ESP32-Installer
+$ ./esp32-installer -h
+```
+
 You can read more on [my website](https://ardawan.tech/).
 
 The installation steps:
 - Installing all dependencies
-- Make "esp" directory in $HOME directory
-- Clone the ESP-IDF repository. If it's already cloned, the script is simply skip this step
-- Run & setup the ESP tools from the cloned repository
-- Set IDF environment variable and make alias to the shell's session file
+- Make "esp" directory in the $HOME directory
+- Clone the ESP-IDF repository. If it's already cloned, the script is skip this step
+- Run & set the ESP tools from the cloned repository
+- Set IDF environment variable and make an alias to the shell's session file
