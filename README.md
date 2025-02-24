@@ -1,7 +1,7 @@
 # ESP32-Installer
 This script will prepare a Linux OS for ESP32 development.
 
-You can read more on [my website](https://ardawan.tech/).
+You can read more on [my website](https://ardawan.tech/blog/Quick-ESP32-installation-guide-for-linux).
 
 This script is not tested on MacOS.
 
