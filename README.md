@@ -1,14 +1,16 @@
 # ESP32-Installer
 This script will prepare a Linux OS for ESP32 development.
 
+You can read more on [my website](https://ardawan.tech/).
+
+This script is not tested on MacOS.
+
 ## Usage
 ```
 $ git clone https://github.com/ardawan/ESP32-Installer.git
 $ cd ESP32-Installer
 $ ./esp32-installer -h
 ```
-
-You can read more on [my website](https://ardawan.tech/).
 
 The installation steps:
 - Installing all dependencies
